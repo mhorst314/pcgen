@@ -318,4 +318,4 @@ CLASS:Epic Spells (Divine/CHA)	SPELLSTAT:CHA	BONUSSPELLSTAT:NONE	FACT:SpellType|
 CLASS:Epic Powers (Psionic/INT)	HD:1		TYPE:EpicSpells	FACT:Abb|Epic Spells	VISIBLE:NO
 # Class Name				Spell Stat		Spell Stat Bonus		Spell Type		Spellbook		Caster level
 CLASS:Epic Powers (Psionic/INT)	SPELLSTAT:INT	BONUSSPELLSTAT:NONE	FACT:SpellType|Psionic	SPELLBOOK:YES	BONUS:CASTERLEVEL|Epic Powers (Psionic/INT)|TL
-1	CAST:0,0,0,0,0,0,0,0,0,0,1
+1	CAST:0,0,0,0,0,0,0,0,0,0,0
