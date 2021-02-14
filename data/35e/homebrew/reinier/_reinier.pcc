@@ -31,6 +31,7 @@ CLASS:reinier_classes.lst
 #COMPANIONMOD:mpc_companionmods.lst
 #DEITY:mpc_deities.lst
 #DOMAIN:mpc_domains.lst
+EQUIPMENT:reinier_equip.lst
 #EQUIPMENT:mpc_equip_arms_armor.lst
 #EQUIPMENT:mpc_equip_general.lst
 #EQUIPMOD:mpc_equipmods.lst
