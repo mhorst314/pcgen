@@ -370,6 +370,9 @@ Peasant's Outfit		SORTKEY:Outfit	TYPE:Goods.Clothing.Outfit.Resizable.Starting	C
 Royal Outfit		SORTKEY:Outfit	TYPE:Goods.Clothing.Outfit.Resizable		COST:200	WT:15		SOURCEPAGE:p.131	SPROP:This is just the clothing, not the royal scepter, crown, ring, and other accoutrements. Royal clothes are ostentatious, with gems, gold, silk, and fur in abundance.
 Scholar's Outfit		SORTKEY:Outfit	TYPE:Goods.Clothing.Outfit.Resizable.Starting	COST:5	WT:6		SOURCEPAGE:p.131	SPROP:Perfect for a scholar, this outfit includes a robe, a belt, a cap, soft shoes, and possibly a cloak.
 Traveler's Outfit		SORTKEY:Outfit	TYPE:Goods.Clothing.Outfit.Resizable.Starting	COST:1	WT:5		SOURCEPAGE:p.131	SPROP:This set of clothes consists of boots, a wool skirt or breeches, a sturdy belt, a shirt (perhaps with a vest or jacket), and an ample cloak with a hood.
+Uniform		SORTKEY:Outfit	TYPE:Goods.Clothing.Outfit.Resizable.Starting	COST:1	WT:5		SOURCEPAGE:p.131	SPROP:Uniform of the Moorland Kingdoms (stats from Traveler's outfit).
+Exercise Outfit		SORTKEY:Outfit	TYPE:Goods.Clothing.Outfit.Resizable.Starting	COST:0.1	WT:2		SOURCEPAGE:p.131	SPROP:Exercise outfit from the Moorland Kingdoms (stats from Peasant's outfit).
+
 
 ###Block: Mounts and Related Gear
 # Equipment Name			SORTKEY		Unique Key					Type							Contains			Cost		Weight	Source Page			Special Property
