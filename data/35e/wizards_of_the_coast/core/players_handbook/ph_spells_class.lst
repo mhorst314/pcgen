@@ -316,6 +316,8 @@ Magic Fang.MOD					CLASSES:Druid,Ranger=1
 Magic Fang (Greater).MOD			CLASSES:Druid,Ranger=3
 Magic Jar.MOD					CLASSES:Sorcerer,Wizard=5
 Magic Missile.MOD					CLASSES:Sorcerer,Wizard=1
+Stone Bolt.MOD					CLASSES:Sorcerer,Wizard=1
+Blaise's Blazing Beads.MOD			CLASSES:Sorcerer,Wizard=1|Bard=2
 Magic Mouth.MOD					CLASSES:Bard=1|Sorcerer,Wizard=2
 Magic Stone.MOD					CLASSES:Cleric,Druid=1								DOMAINS:Earth=1
 Magic Vestment.MOD				CLASSES:Cleric=3									DOMAINS:Strength,War=3

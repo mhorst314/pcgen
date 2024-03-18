@@ -371,6 +371,7 @@ Royal Outfit		SORTKEY:Outfit	TYPE:Goods.Clothing.Outfit.Resizable		COST:200	WT:1
 Scholar's Outfit		SORTKEY:Outfit	TYPE:Goods.Clothing.Outfit.Resizable.Starting	COST:5	WT:6		SOURCEPAGE:p.131	SPROP:Perfect for a scholar, this outfit includes a robe, a belt, a cap, soft shoes, and possibly a cloak.
 Traveler's Outfit		SORTKEY:Outfit	TYPE:Goods.Clothing.Outfit.Resizable.Starting	COST:1	WT:5		SOURCEPAGE:p.131	SPROP:This set of clothes consists of boots, a wool skirt or breeches, a sturdy belt, a shirt (perhaps with a vest or jacket), and an ample cloak with a hood.
 Uniform		SORTKEY:Outfit	TYPE:Goods.Clothing.Outfit.Resizable.Starting	COST:1	WT:5		SOURCEPAGE:p.131	SPROP:Uniform of the Moorland Kingdoms (stats from Traveler's outfit).
+Nils' Uniform		SORTKEY:Outfit	TYPE:Goods.Clothing.Outfit.Resizable.Starting	COST:1	WT:5		SOURCEPAGE:p.131	SPROP:Uniform of the Moorland Kingdoms (stats from Traveler's outfit). Rank of Lieutenant. Insignia: Battle, Ingenuity, Cruelty (+1 intimidate), Comradery (+1 rally), Silver Ribbon of the Guard, Purple Ribbon of Honor (+1 diplomacy), White Ribbon of Mercy, Green Ribbon of Solitude (+1 rally), Brass Ribbon of Science. (=>5 insignia gives +1 on charisma for the army)
 Exercise Outfit		SORTKEY:Outfit	TYPE:Goods.Clothing.Outfit.Resizable.Starting	COST:0.1	WT:2		SOURCEPAGE:p.131	SPROP:Exercise outfit from the Moorland Kingdoms (stats from Peasant's outfit).
 
 
